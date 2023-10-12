@@ -1,4 +1,4 @@
-function repeat (string, n) {
+(string, n) => {
     let repeat = "";
 
     for(let i = 0; i < n; i++) {
